@@ -1,4 +1,4 @@
-package daysix;
+package day8_21;
 
 import java.util.Scanner;
 
