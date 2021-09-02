@@ -28,8 +28,6 @@ public class Test2 {
 		}
 		in.close();
 
-		
-		
 		System.out.println("==========读取一组数据==========");
 
 		file = new File("D:\\myfiles/a.txt");
